@@ -140,7 +140,7 @@ const vector<string> Ship::CATEGORIES = {
 	"Light Warship",
 	"Medium Warship",
 	"Heavy Warship",
-	"Gunship",
+	"Gunship", //ajc
 	"Fighter",
 	"Drone"
 };
